@@ -1,7 +1,7 @@
 Title:************* Pong Game****************************
 
+![Pong-Game](https://github.com/Dorcatz123/Pong-Game--Python-Project/assets/120886051/eb638f12-9c2e-44db-93ae-87e5f8022d35)
 
-![pong][https://github.com/Dorcatz123/Pong-Game--Python-Project/blob/master/Pong-Game.png]
 
 **Description:
 
