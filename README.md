@@ -1,5 +1,8 @@
 Title:************* Pong Game****************************
 
+
+https://github.com/Dorcatz123/Pong-Game--Python-Project/blob/master/Pong-Game.png
+
 **Description:
 
 This Pong-Game is a classic implementation of the popular Ping-Pong game that we play in mobile phones. This game is entirely created using basic python concepts such as OOP's, datatypes, control flows and very useful modules such as the turtle module, random module and the time module. The objective of the game is to hit the yellow ball and 
